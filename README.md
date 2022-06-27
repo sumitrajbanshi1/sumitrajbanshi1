@@ -4,12 +4,12 @@ A highly creative problem solver and proactive IT professional with a strong gra
 
 ### My technical skills
 
-# Operating systems: Microsoft Network Operating Systems and PC desktop operating systems, including MAC Server and OS and Linux.
-# Infrastructure Support: Desktop, Servers, Routers, Switches, Firewalls, Printers, Storage, Hyper V, AD, cloud infrastructure. 
-# ITSM Software: Jira, Zendesk, Atera, ServiceDesk Plus 
-# Cloud Solutions: Azure, AWS  Microsoft software: MS Office 365, Teams, Outlook, OneDrive, SharePoint, Planner, Exchange Online 
-# LAN/WAN Technologies: VPN/Tunnelling, DNS, DHCP, TCP/IP, Access - list, MPLS, Switch Virtualization, Network architecture. 
-# Programming Languages: Html, CSS, Python, MYSQL
+###### Operating systems: Microsoft Network Operating Systems and PC desktop operating systems, including MAC Server and OS and Linux.
+###### Infrastructure Support: Desktop, Servers, Routers, Switches, Firewalls, Printers, Storage, Hyper V, AD, cloud infrastructure. 
+###### ITSM Software: Jira, Zendesk, Atera, ServiceDesk Plus 
+###### Cloud Solutions: Azure, AWS  Microsoft software: MS Office 365, Teams, Outlook, OneDrive, SharePoint, Planner, Exchange Online 
+###### LAN/WAN Technologies: VPN/Tunnelling, DNS, DHCP, TCP/IP, Access - list, MPLS, Switch Virtualization, Network architecture. 
+###### Programming Languages: Html, CSS, Python, MYSQL
 
 ### Find me around the web 🌐
 Linkedin 
