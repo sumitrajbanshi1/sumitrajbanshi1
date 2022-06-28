@@ -14,6 +14,5 @@ A highly creative problem solver and proactive IT professional with a strong gra
 
 ### Find me around the web 🌐
 -------------
-- Linkedin (https://www.linkedin.com/in/sumit-rajbanshi/ "Heading link")
 - [Linkedin](https://www.linkedin.com/in/sumit-rajbanshi/ "Heading link")
-- Personal Site
+- [Personal Site]( "Heading link")
