@@ -14,7 +14,7 @@ I am an ambitious **IT Network & System Engineer** with over 3 years of hands-on
 
 Currently at **Readii Pty. Ltd.**, I focus on:
 * Maintaining network & system integrity for enterprise clients.
-* Optimizing multi-cloud solutions (AWS & Azure).
+* Optimizing workflows, multi-cloud solutions (AWS & Azure), and automation.
 * Delivering strategic end-user support and automating ITSM workflows.
 
 I am passionate about root-cause problem solving, IT strategy, and continuous learning toward engineering leadership roles.
