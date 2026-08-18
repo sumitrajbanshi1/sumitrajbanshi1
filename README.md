@@ -41,7 +41,7 @@ I am passionate about root-cause problem solving, IT strategy, and continuous le
 
 - 🛜 **Infrastructure Optimization:** Architecting high-availability LAN/WAN, traffic monitoring, and firewall configurations.
 - ☁️ **Cloud Management:** Secure resource deployment, identity management, and cloud cost optimization.
-- ⚙️ **Process Automation:** Streamlining ticketing workflows and administrative tasks using PowerShell & Python.
+- ⚙️ **Process Automation:** Streamlining ticketing workflows and administrative tasks using PowerShell, SAAS Platform.
 
 ---
 
