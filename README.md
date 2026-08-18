@@ -47,7 +47,7 @@ I am passionate about root-cause problem solving, IT strategy, and continuous le
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sumit-rajbanshi/](#)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/sumit-rajbanshi/]
 - 🌐 **Portfolio:** [TBA](#)
 
 ---
