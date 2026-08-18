@@ -30,7 +30,7 @@ I am passionate about root-cause problem solving, IT strategy, and continuous le
 `LAN/WAN` `Routing & Switching` `Firewalls` `VPN` `DNS/IPAM` `MPLS` `Endpoint Security` `IDS/IPS`
 
 **ITSM & Operations**  
-`ConnectWise` `Kaseya` `ServiceNow` `Jira` `Altera` `Service Automation` `Backups & DR`
+`ConnectWise` `Kaseya` `ServiceNow` `Jira` `Backups & DR`
 
 **Scripting & Web**  
 `PowerShell` `Python` `JavaScript` `HTML5/CSS3` `MySQL`
