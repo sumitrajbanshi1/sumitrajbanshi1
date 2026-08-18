@@ -47,19 +47,11 @@ I am passionate about root-cause problem solving, IT strategy, and continuous le
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL](#)
-- 🌐 **Portfolio / Residence Nexus Site:** [Your GitHub Pages Site URL](#)
-- ✉️ **Email:** [Your Professional Email](#)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/sumit-rajbanshi/](#)
+- 🌐 **Portfolio:** [TBA](#)
 
 ---
 
 <p align="center">
   <sub>© 2026 Sumit • All Rights Reserved</sub>
 </p>
-
-
-
-### Find me around the web 🌐
--------------
-- [Linkedin](https://www.linkedin.com/in/sumit-rajbanshi/ "Heading link")
-- [Personal Site]( "Heading link")
