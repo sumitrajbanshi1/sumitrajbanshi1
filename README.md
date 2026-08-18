@@ -1,16 +1,63 @@
-### Hi there, I'm Sumit 👋
--------------
-A highly creative problem solver and proactive IT professional with a strong grasp of computer Networking and Infrastructure, Linux variants as well as Public Cloud services such as office 365 admin, Azure, and AWS, troubleshooting with excellent verbal and written communication skills and interest in technology and performance focused. Enjoys working in a dynamic and rapidly changing work environment currently seeking for an IT Support Officer role to take more challenges and make use my analytical skills and expertise to benefit the company.
+# Hi there, I'm Sumit 👋 
 
-### My technical skills
--------------
+> **IT Network & System Engineer | Cloud & Infrastructure Specialist**  
+> *Bridging the gap between robust IT technology and strategic business growth.*
 
-- Operating systems: Microsoft Network Operating Systems and PC desktop operating systems, including MAC Server and OS and Linux.
-- Infrastructure Support: Desktop, Servers, Routers, Switches, Firewalls, Printers, Storage, Hyper V, AD, cloud infrastructure. 
-- ITSM Software: Jira, Zendesk, Atera, ServiceDesk Plus 
-- Cloud Solutions: Azure, AWS  Microsoft software: MS Office 365, Teams, Outlook, OneDrive, SharePoint, Planner, Exchange Online 
-- LAN/WAN Technologies: VPN/Tunnelling, DNS, DHCP, TCP/IP, Access - list, MPLS, Switch Virtualization, Network architecture. 
-- Programming Languages: Html, CSS, Python, MYSQL
+![IT Infrastructure](https://img.shields.io/badge/Focus-IT%20Infrastructure%20%26%20Cloud-00f2fe?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge)
+
+---
+
+### 👨‍💻 About Me
+
+I am an ambitious **IT Network & System Engineer** with over 3 years of hands-on experience building, managing, and optimizing enterprise IT infrastructures. 
+
+Currently at **Readii Pty. Ltd.**, I focus on:
+* Maintaining network & system integrity for enterprise clients.
+* Optimizing multi-cloud solutions (AWS & Azure).
+* Delivering strategic end-user support and automating ITSM workflows.
+
+I am passionate about root-cause problem solving, IT strategy, and continuous learning toward engineering leadership roles.
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+**Cloud & Systems Administration**  
+`Microsoft Azure` `AWS` `Azure AD / Entra ID` `Microsoft 365 Admin` `Exchange Online` `Active Directory` `Windows Server` `Linux` `macOS`
+
+**Networking & Security**  
+`LAN/WAN` `Routing & Switching` `Firewalls` `VPN` `DNS/IPAM` `MPLS` `Endpoint Security` `IDS/IPS`
+
+**ITSM & Operations**  
+`ConnectWise` `Kaseya` `ServiceNow` `Jira` `Altera` `Service Automation` `Backups & DR`
+
+**Scripting & Web**  
+`PowerShell` `Python` `JavaScript` `HTML5/CSS3` `MySQL`
+
+---
+
+### 📈 Technical Focus Areas
+
+- 🛜 **Infrastructure Optimization:** Architecting high-availability LAN/WAN, traffic monitoring, and firewall configurations.
+- ☁️ **Cloud Management:** Secure resource deployment, identity management, and cloud cost optimization.
+- ⚙️ **Process Automation:** Streamlining ticketing workflows and administrative tasks using PowerShell & Python.
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [Your LinkedIn Profile URL](#)
+- 🌐 **Portfolio / Residence Nexus Site:** [Your GitHub Pages Site URL](#)
+- ✉️ **Email:** [Your Professional Email](#)
+
+---
+
+<p align="center">
+  <sub>© 2026 Sumit • All Rights Reserved</sub>
+</p>
+
+
 
 ### Find me around the web 🌐
 -------------
