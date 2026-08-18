@@ -1,7 +1,7 @@
-# Hi there, I'm Sumit 👋 
+# Hi there, I'm Sumit 👋
 
-> **IT Network & System Engineer | Cloud & Infrastructure Specialist**  
-> *Bridging the gap between robust IT technology and strategic business growth.*
+> **Computer Network & System Engineer | Infrastructure & Azure Engineer**  
+> *Tech-Minded Strategist | Exploring IT, Innovation & Scalable Growth*
 
 ![IT Infrastructure](https://img.shields.io/badge/Focus-IT%20Infrastructure%20%26%20Cloud-00f2fe?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge)
